@@ -93,3 +93,13 @@ The program handles all these situations using a series of checks in the code.
   <br><em>Example 3: Multiple losses and draw outcomes</em>
   <br>
 </p>
+
+---
+
+## 🚀 Live Demo
+
+You can play the game directly in your web browser here:
+
+<a href="https://replit.com/@krasimirnyv/Rock-Paper-Scissors-Game-by-Krasmir-Naydenov?v=1" target="_blank">
+  <img alt="Play Button" src="https://user-images.githubusercontent.com/85368212/167706726-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" width="200">
+</a>
