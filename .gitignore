@@ -52,3 +52,16 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code (ако някой отвори с него)
+.vscode/
+
+# macOS системни файлове
+.DS_Store
+
+# Документи (по избор)
+*.docx
