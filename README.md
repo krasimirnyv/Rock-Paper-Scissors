@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors Game
-Rock - Paper - Scissors is a simple console game for beginners.
+Project: Rock - Paper - Scissors is a simple console game for beginners.
+
+![Rock Paper Scissors](https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg)
 
 Link for the project's source code:
 https://github.com/krasimirnyv/Rock-Paper-Scissors/blob/main/RockPaperScissors/RockPaperScissors/RockPaperScissors.cs
