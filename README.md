@@ -70,3 +70,23 @@ The table below shows all possible outcomes of the game, based on both the playe
 | scissors  | scissors  | Draw        |
 
 The program handles all these situations using a series of checks in the code.
+
+---
+
+<h2>📸 Screenshots</h2>
+<p>Below are some gameplay examples from the Rock-Paper-Scissors console game:</p>
+
+<p align="center">
+  <img src="images/Player wins.jpg" width="500" alt="Player wins">
+  <br><em>Example 1: Player wins against the computer</em>
+</p>
+
+<p align="center">
+  <img src="images/Draw and win.jpg" width="500" alt="Draw and win">
+  <br><em>Example 2: Game ends in a draw, followed by a win</em>
+</p>
+
+<p align="center">
+  <img src="images/Multiple losses and draws.jpg" width="500" alt="Multiple losses and draws">
+  <br><em>Example 3: Multiple losses and draw outcomes</em>
+</p>
