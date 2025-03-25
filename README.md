@@ -101,5 +101,5 @@ The program handles all these situations using a series of checks in the code.
 You can play the game directly in your web browser here:
 
 <a href="https://replit.com/@krasimirnyv/Rock-Paper-Scissors-Game-by-Krasmir-Naydenov?v=1" target="_blank">
-  <img alt="Play Button" src="images/Play.png" width="300">
+  <img alt="Play Button" src="images/Play.png" width="100">
 </a>
