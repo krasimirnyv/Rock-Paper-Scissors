@@ -9,7 +9,7 @@ Project: Rock - Paper - Scissors is a simple console game for beginners.
 
 You can view the source code for this project here:
 
-[Source Code](RockPaperScissors.cs)
+[Source Code](RockPaperScissors/RockPaperScissors/RockPaperScissors.cs)
 
 ---
 
