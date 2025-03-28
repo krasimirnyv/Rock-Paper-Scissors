@@ -51,7 +51,7 @@ The computer chooses a random option and then reveals the **winner**.
 
 ---
 
-## 📊 Solution
+## 📊 Game Flow Table
 
 The table below shows all possible outcomes of the game, based on both the player’s and the computer’s choices:
 
