@@ -1,15 +1,13 @@
-# Rock-Paper-Scissors Game
-Project: Rock - Paper - Scissors is a simple console game for beginners.
+# ✊🖐✌️ Rock-Paper-Scissors – Console Game
+
+## 💡 Project Title
+
+A C# console-based implementation of the classic Rock-Paper-Scissors game, featuring input validation, colorful feedback, score tracking, and replay functionality.  
+This project is designed for beginners who want to practice core programming concepts such as conditional logic, loops, methods, and user interaction in the console.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg" width="300px" alt="Rock Paper Scissors Illustration">
 </p>
-
-## 💻 **Link to the Source Code**
-
-You can view the source code for this project here:
-
-[Source Code](RockPaperScissors/RockPaperScissors/RockPaperScissors.cs)
 
 ---
 
@@ -96,6 +94,13 @@ The program handles all these situations using a series of checks in the code.
 
 ---
 
+## 💻 **Link to the Source Code**
+You can view the source code for this project here:
+
+[Source Code](RockPaperScissors/RockPaperScissors/RockPaperScissors.cs)
+
+---
+
 ## 🚀 Live Demo
 
 You can play the game directly in your web browser here:
@@ -103,3 +108,21 @@ You can play the game directly in your web browser here:
 <a href="https://replit.com/@krasimirnyv/Rock-Paper-Scissors-Game-by-Krasmir-Naydenov?v=1" target="_blank">
   <img alt="Play Button" src="images/Play.png" width="100">
 </a>
+
+---
+
+## 🧠 Technologies Used
+- C#
+- .NET Console
+- JetBrains Rider / Replit
+- Git & GitHub for version control
+
+---
+
+## ✍ Author
+Created by **Krasmir Naydenov** as part of a personal console projects series for beginners.
+
+---
+
+## 📄 License
+Licensed under the [MIT License](LICENSE)
