@@ -11,6 +11,14 @@ This project is designed for beginners who want to practice core programming con
 
 ---
 
+## 🧩 Project Summary
+
+A classic C# console game where the player competes against the computer by choosing rock, paper, or scissors.  
+The computer randomly selects its move, and the game determines the winner based on standard rules.  
+It includes input validation, colorful feedback, score tracking, and replay functionality for an interactive experience.
+
+---
+
 ## 📌 Project Goals
 The goal of this project is to implement a simple console-based version of the classic Rock-Paper-Scissors game, where a human player competes against the computer. The purpose is to apply fundamental programming skills in C#, such as using variables, conditional logic, loops, input/output operations and methods. The project encourages learning through practical coding while also building a foundation for version control, documentation, and publishing projects on GitHub.
 
